@@ -1,9 +1,6 @@
 # ENGLISH TO GERMAN TRANSLATION USING A TRANSFORMER
 Eve Collier
 
-CPSC 372 - Spring 2025
-
-Independent Study Project 3 - Transformers
 
 ## FILE MANIFEST
 **wordTransformer.py - This file is the implementation of a Transformer for English to German language translation. Here is a summary of the key components:**
